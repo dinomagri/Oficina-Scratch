@@ -1,4 +1,3 @@
-
   888b     d888           .d8888b.        d8888 
   8888b   d8888          d88P  Y88b      d88888 
   88888b.d88888          Y88b.          d88P888 
@@ -9,6 +8,13 @@
   888       888  "Y88888  "Y8888P" d88P     888 
 
   :::::: Oficina de Introdução a SCRATCH ::::::
+
+LINKS:
+Download Scratch - http://scratch.mit.edu/ 
+Download S4A - http://seaside.citilab.eu/scratch/arduino ou http://dinomagri.com/downloads/S4A14.deb
+Download Arduino http://arduino.cc
+Firmware Scratch - http://dinomagri.com/downloads/firmware.pde
+Material - https://github.com/dinomagri/Oficina-Scratch
 
 ATENÇÃO:
 Para exportar o trabalho feito no Scratch é necessário faze-lo no software Scratch e não no S4A (Scratch for Arduino), pois o mesmo não exporta.
